@@ -1,0 +1,24 @@
+{
+  "name": "supermed",
+  "version": "1.0.0",
+  "description": "find medicine when travelling",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tigerlily-he/supermed.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tigerlily-he/supermed/issues"
+  },
+  "homepage": "https://github.com/tigerlily-he/supermed#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^3.1.4",
+    "sqlite3": "4.0.2"
+  }
+}
